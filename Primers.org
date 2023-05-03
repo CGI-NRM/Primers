@@ -608,6 +608,22 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Name                                   | Box      | Number | Species                  | Type | Loci | Modification | Reference | Sequence |
 |----------------------------------------+----------+--------+--------------------------+------+------+--------------+-----------+----------|
 
+** Primers table 3 - Bear Adapter Primers
+
+| Name                 | Box                   | Number | Species       | Type | Loci | Modification          | Reference | Sequence |
+|----------------------+---------------------- +--------+---------------+------+------+-----------------------+-----------+----------|
+| G10L_Illumina        | Bear Illumina Primers | I1     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU05_Illumina        | Bear Illumina Primers | I2     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU59_Illumina        | Bear Illumina Primers | I3     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU09_Illumina        | Bear Illumina Primers | I4     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU23_Illumina        | Bear Illumina Primers | I5     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU51_Illumina        | Bear Illumina Primers | I6     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU50_Illumina        | Bear Illumina Primers | I7     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU10_Illumina        | Bear Illumina Primers | I8     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| G10B_Illumina        | Bear Illumina Primers | I9     | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| G1A_Illumina         | Bear Illumina Primers | I10    | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| G1D_Illumina         | Bear Illumina Primers | I11    | Bear          |      | NGS  | Adapters for Illumina |           |          |
+| MU15_Illumina        | Bear Illumina Primers | I12    | Bear          |      | NGS  | Adapters for Illumina |           |          |
 
 
 ** qPCR reaction setup
