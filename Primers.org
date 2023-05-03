@@ -611,7 +611,6 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 ** Primers table 3 - Bear Adapter Primers
 
 | Name                 | Box                   | Number | Species       | Type | Loci | Modification          | Reference | Sequence |
-|----------------------+---------------------- +--------+---------------+------+------+-----------------------+-----------+----------|
 | G10L_Illumina        | Bear Illumina Primers | I1     | Bear          |      | NGS  | Adapters for Illumina |           |          |
 | MU05_Illumina        | Bear Illumina Primers | I2     | Bear          |      | NGS  | Adapters for Illumina |           |          |
 | MU59_Illumina        | Bear Illumina Primers | I3     | Bear          |      | NGS  | Adapters for Illumina |           |          |
