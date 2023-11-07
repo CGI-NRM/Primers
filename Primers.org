@@ -640,7 +640,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Siluris glansis                        | Tagman 4 | T29    | Silurus glanis           |      | qPCR |              |           |          |
 | El_cytb (Esox Lucius)                  | Tagman 4 | T30    | Esox lucius              |      | qPCR |              |           |          |
 | Nitella mucronata                      | Tagman 4 | T31    | Nitella mucronata        |      | qPCR |              |           |          |
-
+| Rhihar_co1_po3                        | Tagman 7 | T57    | Rhithropanopeus harrisii  |      | qPCR |              |           |          |
 
 ** Primers table 2 - qPCR
 
