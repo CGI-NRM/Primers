@@ -644,7 +644,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Nitella mucronata                      | Tagman 4 | T31    | Nitella mucronata          |      | qPCR |              |           |          |
 | M_margaritifera                        | Tagman 4 | T32    | Margaritifera margaritifera|      | qPCR |              |           |          |
 | PMT1 Tobacco                           | Tagman 4 | T33    | Tobacco                    |      | qPCR |              |           |          |
-| RBTF                                   | Tagman 4 | T34    |                            |      | qPCR |              |           |          |
+| RBTF (Regnbåge)                        | Tagman 4 | T34    | Oncorhynchus mykiss        |      | qPCR |              |           |          |
 | Hyla arborea                           | Tagman 4 | T35    | Hyla arborea               |      | qPCR |              |           |          |
 | V_lagopus                              | Tagman 5 | T35.2  | Vulpes lagopus             |      | qPCR |              |           |          |
 | V_vulpes                               | Tagman 5 | T36    | Vulpes vulpes              |      | qPCR |              |           |          |
@@ -662,7 +662,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | P_friesii_psbA                         | Tagman 6 | T49    | Potamogeton friesii        |      | qPCR |              |           |          |
 | ITS_Tolypella_v3 (Fjällrufse)          | Tagman 6 | T50    | Tolypella canadensis       |      | qPCR |              |           |          |
 | ITS_Tolypella_v4 (Fjällrufse)          | Tagman 6 | T51    | Tolypella canadensis       |      | qPCR |              |           |          |
-| SSUDF                                  | Tagman 6 | T52    |                            |      | qPCR |              |           |          |
+| SSUDF                                  | Tagman 6 | T52    | Sarcoptes scabiei          |      | qPCR |              |           |          |
 | Salfon-A/S715 (Bäckröding)             | Tagman 7 | T53    | Salvelinus fontalis        |      | qPCR |              |           |          |
 | SalvAlp (Fjällröding)                  | Tagman 7 | T54    | Salvelinus alpinus         |      | qPCR |              |           |          |
 | Rhihar_co1_po3                         | Tagman 7 | T57    | Rhithropanopeus harrisii   |      | qPCR |              |           |          |
