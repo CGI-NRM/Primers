@@ -628,7 +628,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Cottus_gobio                           | Tagman 2 | T10    | Cottus gobio               |      | qPCR |              |           |          |
 | P_phoxinus                             | Tagman 2 | T11    | Phoxinus phoxinus          |      | qPCR |              |           |          |
 | S_salar                                | Tagman 2 | T12    | Salma salar                |      | qPCR |              |           |          |
-| Salmo_trutta                           | Tagman 2 | T13    | Salmo trutta               |      | qPCR |              |           |          |
+| Salmo_trutta (Öring)                   | Tagman 2 | T13    | Salmo trutta               |      | qPCR |              |           |          |
 | Astacus_astacus_CO1                    | Tagman 2 | T14    | Astacus astacus            |      | qPCR |              |           |          |
 | Unio_crassus_M                         | Tagman 2 | T15    | Unio crassus               |      | qPCR |              |           |          |
 | Unio_crassus_F                         | Tagman 2 | T16    | Unio crassus               |      | qPCR |              |           |          |
@@ -650,21 +650,21 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | V_vulpes                               | Tagman 5 | T36    | Vulpes vulpes              |      | qPCR |              |           |          |
 | Rana_dalmatina                         | Tagman 5 | T37    | Rana dalmatina             |      | qPCR |              |           |          |
 | B_viridis                              | Tagman 5 | T38    | Buxbaumia viridis          |      | qPCR |              |           |          |
-| Tolypella_ITS2                         | Tagman 5 | T39    | Tolypella                  |      | qPCR |              |           |          |
-| Thymallus                              | Tagman 5 | T40    | Thymallus                  |      | qPCR |              |           |          |
+| Tolypella_ITS2 (Fjällrufse)            | Tagman 5 | T39    | Tolypella canadensis       |      | qPCR |              |           |          |
+| Thymallus (Harr)                       | Tagman 5 | T40    | Thymallus thymallus        |      | qPCR |              |           |          |
 | E_nuuttalli                            | Tagman 5 | T42    | Elodea nuttalli            |      | qPCR |              |           |          |
 | E_canadensis                           | Tagman 5 | T43    | Elodea canadensis          |      | qPCR |              |           |          |
-| GobyCOI                                | Tagman 6 | T44    |                            |      | qPCR |              |           |          |
+| GobyCOI (Svartmunnad Smörbult)         | Tagman 6 | T44    | Neogobius melanostomus     |      | qPCR |              |           |          |
 | Lampetra                               | Tagman 6 | T45    | Lampetra                   |      | qPCR |              |           |          |
-| Dp_P                                   | Tagman 6 | T46    | Dreissena polymorpha?      |      | qPCR |              |           |          |
+| Dp_P                                   | Tagman 6 | T46    | Dreissena polymorpha       |      | qPCR |              |           |          |
 | Rangia_cunatea                         | Tagman 6 | T47    | Rangia cunatea             |      | qPCR |              |           |          |
-| Triops                                 | Tagman 6 | T48    | Triops cancriformis?       |      | qPCR |              |           |          |
+| Triops (Hästskoräka)                   | Tagman 6 | T48    | Triops cancriformis        |      | qPCR |              |           |          |
 | P_friesii_psbA                         | Tagman 6 | T49    | Potamogeton friesii        |      | qPCR |              |           |          |
-| ITS_Tolypella_v3                       | Tagman 6 | T50    | Tolypella                  |      | qPCR |              |           |          |
-| ITS_Tolypella_v4                       | Tagman 6 | T51    | Tolypella                  |      | qPCR |              |           |          |
+| ITS_Tolypella_v3 (Fjällrufse)          | Tagman 6 | T50    | Tolypella canadensis       |      | qPCR |              |           |          |
+| ITS_Tolypella_v4 (Fjällrufse)          | Tagman 6 | T51    | Tolypella canadensis       |      | qPCR |              |           |          |
 | SSUDF                                  | Tagman 6 | T52    |                            |      | qPCR |              |           |          |
-| Salfon-A/S715                          | Tagman 7 | T53    | Salvelinus fontalis        |      | qPCR |              |           |          |
-| SalvAlp                                | Tagman 7 | T54    | Salvelinus alpinus         |      | qPCR |              |           |          |
+| Salfon-A/S715 (Bäckröding)             | Tagman 7 | T53    | Salvelinus fontalis        |      | qPCR |              |           |          |
+| SalvAlp (Fjällröding)                  | Tagman 7 | T54    | Salvelinus alpinus         |      | qPCR |              |           |          |
 | Rhihar_co1_po3                         | Tagman 7 | T57    | Rhithropanopeus harrisii   |      | qPCR |              |           |          |
 | CruCarp-CyTritB                        | Tagman 7 | T65    | Carassius carassius        |      | qPCR |              |           |          |
 
