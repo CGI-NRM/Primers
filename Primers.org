@@ -630,7 +630,8 @@ on this repo and will update with this information asap.
 | PtTX4001a_REV            |  19 |    588 |                     |          | - |                            |                                                                                                                  |
 | pTctg4363_FWD            |  19 |    589 |                     |          | - |                            |                                                                                                                  |
 | pTctg4363_REV            |  19 |    590 |                     |          | - |                            |                                                                                                                  |
-
+| TheoSF1                  |  19 |    591 |    Theodoxus        |          | - |                            |                                                                                                                  |
+| TheoSF2                  |  19 |    592 |    Theodoxus        |          | - |                            |                                                                                                                  |
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
