@@ -656,6 +656,15 @@ on this repo and will update with this information asap.
 | LVG_398_REV                  |  20 |    614 |    Lisotriton vulgaris        |          | - |                            |                                                                                                                  |
 | Tv3Ca19_FWD                  |  20 |    615 |    Lisotriton vulgaris        |          | - |                            |                                                                                                                  |
 | Tv3Ca19_REV                  |  20 |    616 |    Lisotriton vulgaris        |          | - |                            |                                                                                                                  |
+| P5                   |  20 |    617 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P5 ins1              |  20 |    618 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P5 ins 2             |  20 |    619 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P5 ins 3             |  20 |    620 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P7                   |  20 |    621 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P7 ins 1             |  20 |    622 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P7 ins 2             |  20 |    623 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| P7 sub 1             |  20 |    624 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
