@@ -673,11 +673,9 @@ on this repo and will update with this information asap.
 | igsR-tag1            |  21 |    631 |    ???       |          | - |                            |                                                                                                                  |
 | igsR-tag2            |  21 |    632 |    ???       |          | - |                            |                                                                                                                  |
 | igsR-tag3            |  21 |    633 |    ???        |          | - |                            |                                                                                                                  |
-
-
-| FIB-BI7U             |  21 |    634 |    ???                     |  selfmade | - |                            |                                                                                                                  |
-| FIB-BI7L             |  21 |    635 |    ???                     | selfmade  | - |                            |                                                                                                                  |
-| Panth_pers_CO1_FWD   |  21 |    636 |    Panthera persica        | selfmade  | - |                            |                                                                                                                  |
+| FIB-BI7U             |  21 |    634 |    ???                     |  selfmade | - |                            |                                                                                             |
+| FIB-BI7L             |  21 |    635 |    ???                     | selfmade  | - |                            |                                                                                                  |
+| Panth_pers_CO1_FWD   |  21 |    636 |    Panthera persica        | selfmade  | - |                            |                                                                                               |
 | Panth_pers_CO1_REV   |  21 |    637 |    Panthera persica        |  selfmade | - |                            |                                                                                                                  |
 
 
