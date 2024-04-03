@@ -664,6 +664,10 @@ on this repo and will update with this information asap.
 | P7 ins 1             |  20 |    622 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
 | P7 ins 2             |  20 |    623 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
 | P7 sub 1             |  20 |    624 |    CO1 Insects (IBA)        |          | - |                            |                                                                                                                  |
+| FIB-BI7U             |  21 |    634 |    ???                     |  selfmade | - |                            |                                                                                                                  |
+| FIB-BI7L             |  21 |    635 |    ???                     | selfmade  | - |                            |                                                                                                                  |
+| Panth_pers_CO1_FWD   |  21 |    636 |    Panthera persica        | selfmade  | - |                            |                                                                                                                  |
+| Panth_pers_CO1_REV   |  21 |    637 |    Panthera persica        |  selfmade | - |                            |                                                                                                                  |
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
