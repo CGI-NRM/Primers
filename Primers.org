@@ -677,7 +677,8 @@ on this repo and will update with this information asap.
 | FIB-BI7L             |  21 |    635 |    ???                     | selfmade  | - |                            |                                                                                                  |
 | Panth_pers_CO1_FWD   |  21 |    636 |    Panthera persica        | selfmade  | - |                            |                                                                                               |
 | Panth_pers_CO1_REV   |  21 |    637 |    Panthera persica        |  selfmade | - |                            |                                                                                                                  |
-
+| illumina_mICO1intF   |  21 |    638 |    Metazoa (cephalopods)        |   | - |                            | Leray et al 2013 A new versatile primer set targeting a short fragment of the mitochondrial COI region for metabarcoding metazoan diversity: application for characterizing coral reef fish gut contents                                                                                                                  |
+| illumina_rgHCO2198   |  21 |    639 |    Metazoa (cephalopods)      |   | - |                            |  Geller et al 2013 Redesign of PCR primers for mitochondrial cytochrome coxidase subunit I for marine invertebrates and application inall-taxa biotic surveys                                                                                                              |
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
