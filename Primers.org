@@ -684,6 +684,11 @@ on this repo and will update with this information asap.
 | Panth_pers_CO1_REV   |  21 |    637 |    Panthera persica        |  selfmade | - |                            |                                                                                                                  |
 | illumina_mICO1intF   |  21 |    638 |    Metazoa (marine inverts)        |   | - |                            | Leray et al 2013 A new versatile primer set targeting a short fragment of the mitochondrial COI region for metabarcoding metazoan diversity: application for characterizing coral reef fish gut contents                                                                                                                  | 5′-GGWACWRGWTGRACWNTNTAYCCYCC-3
 | illumina_rgHCO2198   |  21 |    639 |    Metazoa (marine inverts)      |   | - |                            |  Geller et al 2013 Redesign of PCR primers for mitochondrial cytochrome coxidase subunit I for marine invertebrates and application inall-taxa biotic surveys                                                                                                              | 5′-TANACYTCNGGRTGNCCRAARAAYCA-3′
+| illumina-ITS4   |  21 |    640 |    Plants      |  | - | | | 
+| illumina-ITS5   |  21 |    641 |    Plants      |  | - | | | 
+| illumina-RbcL_F   |  21 |    642 |    Plants      |  | - | | | 
+| illumina-RbcL_R   |  21 |    643 |    Plants      |  | - | | | 
+
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
