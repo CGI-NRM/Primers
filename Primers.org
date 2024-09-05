@@ -688,6 +688,7 @@ on this repo and will update with this information asap.
 | illumina-ITS5   |  21 |    641 |    Plants      |  | - | | | 
 | illumina-RbcL_F   |  21 |    642 |    Plants      |  | - | | | 
 | illumina-RbcL_R   |  21 |    643 |    Plants      |  | - | | | 
+| illumina-BR3   |  21 |    644 |    Insects      |  | - | | | 
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
