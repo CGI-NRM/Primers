@@ -742,7 +742,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Rangia_cunatea                         | Tagman 6 | T47    | Rangia cunatea             |      | qPCR |              |           |          |
 | Triops (Hästskoräka)                   | Tagman 6 | T48    | Triops cancriformis        |      | qPCR |              |           |          |
 | P_friesii_psbA                         | Tagman 6 | T49    | Potamogeton friesii        |      | qPCR |              |           |          |
-| ITS_Tolypella_v3 (Fjällrufse) - Use v4 | Tagman 6 | T50    | Tolypella canadensis       |      | qPCR |              |           |          |
+| ITS_Tolypella_v3 (Fjällrufse) - DON'T USE. Use v4 | Tagman 6 | T50    | Tolypella canadensis       |      | qPCR |              |           |          |
 | ITS_Tolypella_v4 (Fjällrufse)          | Tagman 6 | T51    | Tolypella canadensis       |      | qPCR |              |           |          |
 | SSUDF                                  | Tagman 6 | T52    | Sarcoptes scabiei          |      | qPCR |              |           |          |
 | Salfon-A/S715 (Bäckröding)             | Tagman 7 | T53    | Salvelinus fontalis        |      | qPCR |              |           |          |
