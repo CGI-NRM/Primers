@@ -689,6 +689,9 @@ on this repo and will update with this information asap.
 | illumina-RbcL_F   |  21 |    642 |    Plants      |  | - | | | 
 | illumina-RbcL_R   |  21 |    643 |    Plants      |  | - | | | 
 | illumina-BR3   |  21 |    644 |    Insects      |  | - | | | 
+| ZFX923   |  21 |    645 |    Marine mammals      |  | - | |Bérubé and Palsbøll 1996 | 
+| ZFY767   |  21 |    646 |    Marine mammals      |  | - | | Bérubé and Palsbøll 1996| 
+| ZFXY582   |  21 |    647 |    Marine mammals      |  | - | |Bérubé and Palsbøll 1996 | 
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
