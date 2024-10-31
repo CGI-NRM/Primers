@@ -692,6 +692,8 @@ on this repo and will update with this information asap.
 | ZFX923   |  21 |    645 |    Marine mammals      |  | - | |Bérubé and Palsbøll 1996 | 
 | ZFY767   |  21 |    646 |    Marine mammals      |  | - | | Bérubé and Palsbøll 1996| 
 | ZFXY582   |  21 |    647 |    Marine mammals      |  | - | |Bérubé and Palsbøll 1996 | 
+| 3F_P_leo   |  21 |    648 |    Lion      |  | - | | | 
+| 3R_P_leo   |  21 |    649 |    Lion      |  | - | | | 
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
