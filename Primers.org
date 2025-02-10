@@ -694,6 +694,15 @@ on this repo and will update with this information asap.
 | ZFXY582   |  21 |    647 |    Marine mammals      |  | - | |Bérubé and Palsbøll 1996 | 
 | 3F_P_leo   |  21 |    648 |    Lion      |  | - | | | 
 | 3R_P_leo   |  21 |    649 |    Lion      |  | - | | | 
+| Illumina_MiFish-E-F   |  21 |    650 |    Fish (elasmobranchs)      |  | - | | | 
+| Illumina_MiFish-E-R   |  21 |    651 |    Fish (elasmobranchs)      |  | - | | | 
+| C_argus_2111F   |  22 |    652 | Cephalopholis argus       |  | - | | | 
+| C_argus_2295R   |  22 |    653 | Cephalopholis argus       |  | - | | | 
+| F(H-16065)   |  22 |    654 |          |  | - | | | 
+| L5216   |  22 |    655 |          |  | - | | |
+| H6313   |  22 |    656 |          |  | - | | | 
+| Nitella_illumina_meta_FWD   |  22 |    657 |   kransalg       |  | - | | | 
+| Nitella_illumina_meta_REV   |  22 |    658 |   kransalg       |  | - | | | 
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
