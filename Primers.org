@@ -698,9 +698,9 @@ on this repo and will update with this information asap.
 | Illumina_MiFish-E-R   |  21 |    651 |    Fish (elasmobranchs)      |  | - | | | 
 | C_argus_2111F   |  22 |    652 | Cephalopholis argus       |  | - | | | 
 | C_argus_2295R   |  22 |    653 | Cephalopholis argus       |  | - | | | 
-| F(H-16065)   |  22 |    654 |          |  | - | | | 
-| L5216   |  22 |    655 |          |  | - | | |
-| H6313   |  22 |    656 |          |  | - | | | 
+| F(H-16065)   |  22 |    654 |  birds        |  | - | | | 
+| L5216   |  22 |    655 |  birds        |  | - | | |
+| H6313   |  22 |    656 |  birds        |  | - | | | 
 | Nitella_illumina_meta_FWD   |  22 |    657 |   kransalg       |  | - | | | 
 | Nitella_illumina_meta_REV   |  22 |    658 |   kransalg       |  | - | | | 
 
