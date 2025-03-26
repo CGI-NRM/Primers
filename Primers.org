@@ -780,6 +780,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Meles meles                            | Mammals  | 2      |
 | Alces alces                            | Mammals  | 1      |
 | Meles meles                            | Mammals  | 2      |
+
 | Species                                | Box      | Number |
 |----------------------------------------+----------+--------+
 | Alces alces                            | Fish  | 1      |
