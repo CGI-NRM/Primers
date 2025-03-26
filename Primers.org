@@ -774,18 +774,49 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
 ** Positive controls
 
-| Species                                | Box      | Number |
-|----------------------------------------+----------+--------+
-| Alces alces                            | Mammals  | 1      |
-| Meles meles                            | Mammals  | 2      |
-| Alces alces                            | Mammals  | 1      |
-| Meles meles                            | Mammals  | 2      |
+| Box      | Latin name      | Swedish name      | English name      | Number |
+|----------+-----------------+-------------------+-------------------+--------+
+| Frogs    | Rana arvalis    | Åkergroda         | Moor frog         | 1      | 
 
 
 | Box      | Latin name      | Swedish name      | English name      | Number |
 |----------+-----------------+-------------------+-------------------+--------+
-| Fish     | Alces alces     | Älg               | Elk               | 1      | 
+| Mammals  | Alces alces     | Älg               | Elk               | 1      | 
 
+
+| Box      | Latin name        | Swedish name      | English name      | Number |
+|----------+-------------------+-------------------+-------------------+--------+
+| Fish     | Anguilla anguilla | Ål                | Eel               | 1      | 
+
+
+| Box      | Latin name        | Swedish name            | English name                | Number |
+|----------+-------------------+-------------------------+-----------------------------+--------+
+| Mussels  | Unio crassus      | Tjockskalig målarmussla |  Thick shelled river mussel | 1      |
+
+
+| Box        | Latin name        | Swedish name            | English name                | Number |
+|------------+-------------------+-------------------------+-----------------------------+--------+
+| Crustacean | Astacus astacus   | Flodkräfta |  European crayfish | 1      |
+
+
+| Box        | Latin name        | Swedish name            | English name                | Number |
+|------------+-------------------+-------------------------+-----------------------------+--------+
+| Plants | Elodea canadensis    | Vattenpest |  Canadian waterweed | 1      |
+
+
+| Box        | Latin name        | Swedish name            | English name                | Number |
+|------------+-------------------+-------------------------+-----------------------------+--------+
+| Insects |     |  |   | 1      |
+
+
+| Box        | Latin name        | Swedish name            | English name                | Number |
+|------------+-------------------+-------------------------+-----------------------------+--------+
+| Fungi |     |  |   | 1      |
+
+
+| Box        | Latin name        | Swedish name            | English name                | Number |
+|------------+-------------------+-------------------------+-----------------------------+--------+
+| Leech |     |  |   | 1      |
 
 ** Primers table 3 - Bear Adapter Primers
 
