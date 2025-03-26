@@ -772,6 +772,15 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Name                                   | Box      | Number | Species                  | Type | Loci | Modification | Reference | Sequence |
 |----------------------------------------+----------+--------+--------------------------+------+------+--------------+-----------+----------|
 
+** Positive controls
+
+| Species                                | Box      | Number | -                          | Type | Loci | Modification | Reference | Sequence |
+|----------------------------------------+----------+--------+----------------------------+------+------+--------------+-----------+----------|
+| Alces alces                            | Mammals  | 1      | -                          |      |      |              |           |          |
+| Meles meles                            | Mammals  | 2      | -                          |      |      |              |           |          |
+| Alces alces                            | Mammals  | 1      | -                          |      |      |              |           |          |
+| Meles meles                            | Mammals  | 2      | -                          |      |      |              |           |          |
+
 ** Primers table 3 - Bear Adapter Primers
 
 | Name                 | Box                   | Number | Species       | Type | Loci | Modification          | Reference | Sequence |
