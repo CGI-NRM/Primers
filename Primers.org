@@ -783,7 +783,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
 
 | Box      | Species                                | Number |
-| ---------+----------------------------------------+--------+
+|----------+----------------------------------------+--------+
 | Fish     | Alces alces                            | 1      |
 
 
