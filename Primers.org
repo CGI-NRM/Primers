@@ -846,6 +846,17 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 3        | 68       | Unio crassus | Tjockskalig målarmussla |  Thick shelled river mussel | Mollusca |
 | 3        | 69       | Unio pictorum | Äkta målarmussla | Painter's mussel | Mollusca |
 | 3        | 70       | Unio tumidus | Spetsig målarmussla | Swollen river mussel | Mollusca |
+| 3        | 71       | Elodea canadensis | Vattenpest | Canadian waterweed | Plants |
+| 3        | 72       | Ellodea nuttallii | Smal vattenpest | Western waterweed | Plants |
+| 3        | 73       | Lamprothamnium papulosum | Axsträfse | Foxtail stonewort | Plants |
+| 3        | 74       | Nitella confervacea | Dvärgslinke |  | Plants |
+| 3        | 75       | Nitella gracilis | Spädslinke |  | Plants |
+| 3        | 76       | Nitella mucronata | Uddslinke | Pointed stonewort | Plants |
+| 3        | 77       | Nitella transluscens | Grovslinke |  | Plants |
+| 3        | 78       | Nitella wahlbergiana | Nordslinke |  | Plants |
+| 3        | 79       | Potamogeton friesii | Uddnate | Flat-stalked pondweed | Plants |
+| 3        | 80       | Tolypella canadensis | Fjällrufse |  | Plants |
+| 3        | 81       | Zostera noltii | Dvärgålgräs | Dwarf eelgrass | Plants |
 
 
 
