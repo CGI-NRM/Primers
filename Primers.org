@@ -835,7 +835,17 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 2        | 57       | Ursus arctos | Brunbjörn | Brown bear | Mammals |
 | 2        | 58       | Vulpes lagopus | Fjällräv | Arctic fox | Mammals |
 | 2        | 59       | Vulpes vulpes | Röd räv | Red fox | Mammals |
-
+| 2        | 60       | Dreissena bugensis | Quaggamussla | Quagga mussel |  |
+| 2        | 61       | Dreissena polymorpha | Vandrarmussla | Zebra mussel | Mollusca |
+| 2        | 62       | Ferrissia californica | Bräcklig hättesnäcka |  | Mollusca |
+| 2        | 63       | Physella heterostropha | Amerikansk blåssnäcka |  | Mollusca |
+| 3        | 64       | Margaritifera margaritifera | Flodpärlmussla | Freshwater pearl mussel | Mollusca |
+| 3        | 65       | Pseudanodonta complanata | Flat dammussla | Depressed river mussel | Mollusca |
+| 3        | 66       | Rangia cuneata | Amerikansk trågmussla | Atlantic rangia | Mollusca |
+| 3        | 67       | Sinanodonta |  |  | Mollusca |
+| 3        | 68       | Unio crassus | Tjockskalig målarmussla |  Thick shelled river mussel | Mollusca |
+| 3        | 69       | Unio pictorum | Äkta målarmussla | Painter's mussel | Mollusca |
+| 3        | 70       | Unio tumidus | Spetsig målarmussla | Swollen river mussel | Mollusca |
 
 
 
