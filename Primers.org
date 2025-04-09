@@ -787,47 +787,18 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 1        | 9        | Hyla arborea | Lövgroda | European tree frog | Amphibians |
 | 1        | 10       | Bufotes viridis | Grönfläckig padda | European green toad | Amphibians |
 | 1        | 11       | Pelophylax lessonae | Gölgroda | Pool frog | Amphibians |
+| 1        | 12       | Astacus astacus | Flodkräfta | European crayfish | Crustacean |
+| 1        | 13       | Pacifasticus leniusculus | Signalkräfta | Signal crayfish | Crustacean |
+| 1        | 14       | Limnadia lenticularis | Linsräka | Eastern clam shrimp | Crustacean |
+| 1        | 15       | Triops cancriformis | Hästskoräka | European tadpole shrimp  | Crustacean |
+| 1        | 16       | Eriocheir sinensis | Kinesiska ullhandskrabba | Chinese mitten crab | Crustacean |
+| 1        | 17       | Rhithropanopeus harrisii | Vitfingrad brackvattenskrabba | White-fingered mud crab | Crustacean |
+| 1        | 18       | Polyartemia forcipata |  |  | Crustacean |
+| 1        | 19       | Branchinecta paludosa | Gälbladfoting |  | Crustacean |
 
 
 
-| Box      | Latin name      | Swedish name      | English name      | Number |
-|----------+-----------------+-------------------+-------------------+--------+
-| Mammals  | Alces alces     | Älg               | Elk               | 1      | 
 
-
-| Box      | Latin name        | Swedish name      | English name      | Number |
-|----------+-------------------+-------------------+-------------------+--------+
-| Fish     | Anguilla anguilla | Ål                | Eel               | 1      | 
-
-
-| Box      | Latin name        | Swedish name            | English name                | Number |
-|----------+-------------------+-------------------------+-----------------------------+--------+
-| Mussels  | Unio crassus      | Tjockskalig målarmussla |  Thick shelled river mussel | 1      |
-
-
-| Box        | Latin name        | Swedish name            | English name                | Number |
-|------------+-------------------+-------------------------+-----------------------------+--------+
-| Crustacean | Astacus astacus   | Flodkräfta |  European crayfish | 1      |
-
-
-| Box        | Latin name        | Swedish name            | English name                | Number |
-|------------+-------------------+-------------------------+-----------------------------+--------+
-| Plants | Elodea canadensis    | Vattenpest |  Canadian waterweed | 1      |
-
-
-| Box        | Latin name        | Swedish name            | English name                | Number |
-|------------+-------------------+-------------------------+-----------------------------+--------+
-| Insects |     |  |   | 1      |
-
-
-| Box        | Latin name        | Swedish name            | English name                | Number |
-|------------+-------------------+-------------------------+-----------------------------+--------+
-| Fungi |     |  |   | 1      |
-
-
-| Box        | Latin name        | Swedish name            | English name                | Number |
-|------------+-------------------+-------------------------+-----------------------------+--------+
-| Leech |     |  |   | 1      |
 
 ** Primers table 3 - Bear Adapter Primers
 
