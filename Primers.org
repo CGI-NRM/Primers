@@ -822,7 +822,19 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 2        | 44       | Graphoderus austriacus |  |   | Insects |
 | 2        | 45       | Graphoderus bilineatus | Bred paljettdykare |   | Insects |
 | 2        | 46       | Graphoderus cinereus |  |   | Insects |
-| 2        | 47       | Graphoderus zonatus |  |   | Insects |
+| 2        | 47       | Graphoderus zonatus |  |  | Insects |
+| 2        | 48       | Hirudinea | Igel | Leech |  |
+| 2        | 49       | Alces alces | Älg | Elk | Mammals |
+| 2        | 50       | Canis lupus | Varg | Wolf | Mammals |
+| 2        | 51       | Gulo gulo | Järv | Wolverine | Mammals |
+| 2        | 52       | Lutra lutra | Utter | Eurasian otter | Mammals |
+| 2        | 53       | Meles meles | Grävling | European badger | Mammals |
+| 2        | 54       | Neovison vison | Mink | American mink | Mammals |
+| 2        | 55       | Nyctereutes procyonoides | Mårdhund | Common raccoon dog | Mammals |
+| 2        | 56       | Rangifer tarandis | Ren | Reindeer | Mammals |
+| 2        | 57       | Ursus arctos | Brunbjörn | Brown bear | Mammals |
+| 2        | 58       | Vulpes lagopus | Fjällräv | Arctic fox | Mammals |
+| 2        | 59       | Vulpes vulpes | Röd räv | Red fox | Mammals |
 
 
 
