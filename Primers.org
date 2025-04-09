@@ -795,6 +795,24 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 1        | 17       | Rhithropanopeus harrisii | Vitfingrad brackvattenskrabba | White-fingered mud crab | Crustacean |
 | 1        | 18       | Polyartemia forcipata |  |  | Crustacean |
 | 1        | 19       | Branchinecta paludosa | Gälbladfoting |  | Crustacean |
+| 1        | 20       | Anguilla anguilla | Ål | Eel | Fish |
+| 1        | 21       | Blicca bjoerkna | Björkna | White bream | Fish |
+| 1        | 22       | Carassius carassius | Ruda | Crucian carp | Fish |
+| 1        | 23       | Cottus poecilopus | Bergsimpa | Alpine bullhead | Fish |
+| 1        | 24       | Esox lucius | Gädda | Northern pike | Fish |
+| 1        | 25       | Gobio gobio | Sandkrypare | Gudgeon | Fish |
+| 1        | 26       | Lampetra | Nejonögonfiskar | Lampreys | Fish |
+| 1        | 27       | Leuciscus aspius | Asp | Asp | Fish |
+| 1        | 28       | Neogobius melanostomus | Svartmunnad smörbult | Round goby | Fish |
+| 1        | 29       | Rutilus rutilus | Mört | Common roach | Fish |
+| 1        | 30       | Salmo salar | Lax | Salmon | Fish |
+| 1        | 31       | Salmo trutta | Öring | Brown trout | Fish |
+| 1        | 32       | Salvelinus alpinus | Fjällröding | Mountain char | Fish |
+| 1        | 33       | Salvelinus fontinalis | Bäckröding | Brook trout | Fish |
+| 1        | 34       | Silurus glanis | Mal | Wels catfish | Fish |
+| 1        | 35       | Squalus acanthias | Pigghaj | Spiny dogfish | Fish |
+| 1        | 36       | Thymallus thymallus | Harr | Grayling | Fish |
+| 1        | 37       | Oncorhynchus mykiss  | Regnbåge | Rainbow trout | Fish |
 
 
 
