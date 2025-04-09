@@ -774,9 +774,9 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
 ** Positive controls
 
-| Box      | Latin name      | Swedish name      | English name      | Number |
-|----------+-----------------+-------------------+-------------------+--------+
-| Frogs    | Rana arvalis    | Åkergroda         | Moor frog         | 1      | 
+| Box      | Latin name      | Swedish name      | English name      | Number | Group      |
+|----------+-----------------+-------------------+-------------------+--------+------------+
+| 1        | Rana arvalis    | Åkergroda         | Moor frog         | 1      | Amphibians |
 
 
 | Box      | Latin name      | Swedish name      | English name      | Number |
