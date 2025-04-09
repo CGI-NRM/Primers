@@ -774,9 +774,20 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
 ** Positive controls
 
-| Box      | Number   | Latin name      | Swedish name      | English name      | Number | Group      |
-|----------+----------+-----------------+-------------------+-------------------+--------+------------+
-| 1        | 1        | Rana arvalis    | Åkergroda         | Moor frog         | 1      | Amphibians |
+| Box      | Number   | Latin name      | Swedish name      | English name      | Group      |
+|----------+----------+-----------------+-------------------+-------------------+------------+
+| 1        | 1        | Rana temporaria | Vanlig groda      | Common frog       | Amphibians |
+| 1        | 2        | Rana arvalis    | Åkergroda         | Moor frog         | Amphibians |
+| 1        | 3        | Bufo bufo       | Vanlig padda      | Common toad       | Amphibians |
+| 1        | 4        | Lissotriton vulgaris | Mindre vattensalamander | Smooth newt | Amphibians |
+| 1        | 5        | Triturus cristatus | Större vattensalamander | Great crested newt | Amphibians |
+| 1        | 6        | Bufo calamita  | Strandpadda | Natterjack toad| Amphibians |
+| 1        | 7        | Rana dalmatina | Långbensgroda | Agile frog   | Amphibians |
+| 1        | 8        | Pelobates fuscus | Lökgroda | Common spadefoot | Amphibians |
+| 1        | 9        | Hyla arborea | Lövgroda | European tree frog | Amphibians |
+| 1        | 10       | Bufotes viridis | Grönfläckig padda | European green toad | Amphibians |
+| 1        | 11       | Pelophylax lessonae | Gölgroda | Pool frog | Amphibians |
+
 
 
 | Box      | Latin name      | Swedish name      | English name      | Number |
