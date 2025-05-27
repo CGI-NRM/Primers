@@ -745,7 +745,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | V_lagopus                              | Tagman 5 | T35.2  | Vulpes lagopus             |      | qPCR |              |           |          |
 | V_vulpes                               | Tagman 5 | T36    | Vulpes vulpes              |      | qPCR |              |           |          |
 | Rana_dalmatina                         | Tagman 5 | T37    | Rana dalmatina             |      | qPCR |              |           |          |
-| B_viridis                              | Tagman 5 | T38    | Buxbaumia viridis          |      | qPCR |              |           |          |
+| B_viridis                              | Tagman 5 | T38    | Bufotes viridis            |      | qPCR |              |           |          |
 | Tolypella_ITS2 (Fjällrufse) - DON'T USE| Tagman 5 | T39    | Tolypella canadensis       |      | qPCR |              |           |          |
 | Thymallus (Harr)                       | Tagman 5 | T40    | Thymallus thymallus        |      | qPCR |              |           |          |
 | E_nuuttalli                            | Tagman 5 | T42    | Elodea nuttalli            |      | qPCR |              |           |          |
