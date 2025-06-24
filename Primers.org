@@ -702,7 +702,19 @@ on this repo and will update with this information asap.
 | L5216   |  22 |    655 |  birds        |  | - | | |
 | H6313   |  22 |    656 |  birds        |  | - | | | 
 | Nitella_illumina_meta_FWD   |  22 |    657 |   kransalg       |  | - | | | 
-| Nitella_illumina_meta_REV   |  22 |    658 |   kransalg       |  | - | | | 
+| Nitella_illumina_meta_REV   |  22 |    658 |   kransalg       |  | - | | |
+| ???   |  22 |    659 |          |  | - | | |
+| ???   |  22 |    660 |          |  | - | | | 
+| ???   |  22 |    661 |          |  | - | | | 
+| ???   |  22 |    662 |          |  | - | | | 
+| ???   |  22 |    663 |          |  | - | | | 
+| ???   |  22 |    663 |          |  | - | | | 
+| ???   |  22 |    664 |          |  | - | | | 
+
+| illumina_ITS1F                  |  22 |    665 |   Fungi        |          | - |                            |                                                                                                                  |
+| illumina_ITS4                  |  22 |    666 |    Fungi        |          | - |                            |                                                                                                                  |
+
+
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
