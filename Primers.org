@@ -777,6 +777,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Rhihar_co1_po3                         | Tagman 7 | T57    | Rhithropanopeus harrisii   |      | qPCR |              |           |          |
 | Limnadia_lenticularis                  | Tagman 7 | T58    | Limnadia lenticularis      |      | qPCR |              |           |          |
 | LACOI                                  | Tagman 7 | T59    | Lepidurus apus             |      | qPCR |              |           |          |
+| SANA_CO1                               | Tagman 7 | T60    | Salvelinus namaycush       |      | qPCR |              |           |          |
 
 
 ** Primers table 2 - qPCR
