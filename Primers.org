@@ -778,7 +778,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Limnadia_lenticularis                  | Tagman 7 | T58    | Limnadia lenticularis      |      | qPCR |              |           |          |
 | LACOI                                  | Tagman 7 | T59    | Lepidurus apus             |      | qPCR |              |           |          |
 | SANA_CO1                               | Tagman 7 | T60    | Salvelinus namaycush       |      | qPCR |              |           |          |
-
+| Gräsand                                | Tagman 7 | T61    | Anas plathyrhynchus        |      | qPCR |              |           |          |
 
 ** Primers table 2 - qPCR
 
@@ -787,90 +787,91 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
 ** Positive controls
 
-| Box      | Number   | Latin name      | Swedish name      | English name      | Group      |
+| Box      | Number   | Latin name               | Swedish name         | English name         | Group      |
 |----------+----------+-----------------+-------------------+-------------------+------------+
-| 1        | 1        | Rana temporaria | Vanlig groda      | Common frog       | Amphibians |
-| 1        | 2        | Rana arvalis    | Åkergroda         | Moor frog         | Amphibians |
-| 1        | 3        | Bufo bufo       | Vanlig padda      | Common toad       | Amphibians |
-| 1        | 4        | Lissotriton vulgaris | Mindre vattensalamander | Smooth newt | Amphibians |
-| 1        | 5        | Triturus cristatus | Större vattensalamander | Great crested newt | Amphibians |
-| 1        | 6        | Bufo calamita  | Strandpadda | Natterjack toad| Amphibians |
-| 1        | 7        | Rana dalmatina | Långbensgroda | Agile frog   | Amphibians |
-| 1        | 8        | Pelobates fuscus | Lökgroda | Common spadefoot | Amphibians |
-| 1        | 9        | Hyla arborea | Lövgroda | European tree frog | Amphibians |
-| 1        | 10       | Bufotes viridis | Grönfläckig padda | European green toad | Amphibians |
-| 1        | 11       | Pelophylax lessonae | Gölgroda | Pool frog | Amphibians |
-| 1        | 12       | Astacus astacus | Flodkräfta | European crayfish | Crustacean |
+| 1        | 1        | Rana temporaria          | Vanlig groda      | Common frog       | Amphibians |
+| 1        | 2        | Rana arvalis             | Åkergroda         | Moor frog         | Amphibians |
+| 1        | 3        | Bufo bufo                | Vanlig padda      | Common toad       | Amphibians |
+| 1        | 4        | Lissotriton vulgaris     | Mindre vattensalamander | Smooth newt | Amphibians |
+| 1        | 5        | Triturus cristatus       | Större vattensalamander | Great crested newt | Amphibians |
+| 1        | 6        | Bufo calamita            | Strandpadda | Natterjack toad| Amphibians |
+| 1        | 7        | Rana dalmatina           | Långbensgroda | Agile frog   | Amphibians |
+| 1        | 8        | Pelobates fuscus         | Lökgroda | Common spadefoot | Amphibians |
+| 1        | 9        | Hyla arborea             | Lövgroda | European tree frog | Amphibians |
+| 1        | 10       | Bufotes viridis          | Grönfläckig padda | European green toad | Amphibians |
+| 1        | 11       | Pelophylax lessonae      | Gölgroda | Pool frog | Amphibians |
+| 1        | 12       | Astacus astacus          | Flodkräfta | European crayfish | Crustacean |
 | 1        | 13       | Pacifasticus leniusculus | Signalkräfta | Signal crayfish | Crustacean |
-| 1        | 14       | Limnadia lenticularis | Linsräka | Eastern clam shrimp | Crustacean |
-| 1        | 15       | Triops cancriformis | Hästskoräka | European tadpole shrimp  | Crustacean |
-| 1        | 16       | Eriocheir sinensis | Kinesiska ullhandskrabba | Chinese mitten crab | Crustacean |
+| 1        | 14       | Limnadia lenticularis    | Linsräka | Eastern clam shrimp | Crustacean |
+| 1        | 15       | Triops cancriformis      | Hästskoräka | European tadpole shrimp  | Crustacean |
+| 1        | 16       | Eriocheir sinensis       | Kinesiska ullhandskrabba | Chinese mitten crab | Crustacean |
 | 1        | 17       | Rhithropanopeus harrisii | Vitfingrad brackvattenskrabba | White-fingered mud crab | Crustacean |
-| 1        | 18       | Polyartemia forcipata |  |  | Crustacean |
-| 1        | 19       | Branchinecta paludosa | Gälbladfoting |  | Crustacean |
-| 1        | 20       | Anguilla anguilla | Ål | Eel | Fish |
-| 1        | 21       | Blicca bjoerkna | Björkna | White bream | Fish |
-| 1        | 22       | Carassius carassius | Ruda | Crucian carp | Fish |
-| 1        | 23       | Cottus poecilopus | Bergsimpa | Alpine bullhead | Fish |
-| 1        | 24       | Esox lucius | Gädda | Northern pike | Fish |
-| 1        | 25       | Gobio gobio | Sandkrypare | Gudgeon | Fish |
-| 1        | 26       | Lampetra | Nejonögonfiskar | Lampreys | Fish |
-| 1        | 27       | Leuciscus aspius | Asp | Asp | Fish |
-| 2        | 28       | Neogobius melanostomus | Svartmunnad smörbult | Round goby | Fish |
-| 2        | 29       | Rutilus rutilus | Mört | Common roach | Fish |
-| 2        | 30       | Salmo salar | Lax | Salmon | Fish |
-| 2        | 31       | Salmo trutta | Öring | Brown trout | Fish |
-| 2        | 32       | Salvelinus alpinus | Fjällröding | Mountain char | Fish |
-| 2        | 33       | Salvelinus fontinalis | Bäckröding | Brook trout | Fish |
-| 2        | 34       | Silurus glanis | Mal | Wels catfish | Fish |
-| 2        | 35       | Squalus acanthias | Pigghaj | Spiny dogfish | Fish |
-| 2        | 36       | Thymallus thymallus | Harr | Grayling | Fish |
-| 2        | 37       | Oncorhynchus mykiss  | Regnbåge | Rainbow trout | Fish |
-| 2        | 38       | Aphanomyces astaci | Kräftpest | Crayfish plague | Fungi |
-| 2        | 39       | Dytiscus latissimus | Bredkantad dykare |  | Insects |
-| 2        | 40       | Leucorrhinia pectoralis | Citronfläckad kärrtrollslända | Large white-faced darter | Insects |
-| 2        | 41       | Leucorrhinia albifrons | Pudrad kärrtrollslända | Dark whiteface | Insects |
-| 2        | 42       | Leucorrhinia caudalis | Bred kärrtrollslända | Lilypad whiteface | Insects |
-| 2        | 43       | Aeshna viridis  | Grön mosaikslända | Green hawker | Insects |
-| 2        | 44       | Graphoderus austriacus |  |   | Insects |
-| 2        | 45       | Graphoderus bilineatus | Bred paljettdykare |   | Insects |
-| 2        | 46       | Graphoderus cinereus |  |   | Insects |
-| 2        | 47       | Graphoderus zonatus |  |  | Insects |
-| 2        | 48       | Hirudinea | Igel | Leech |  |
-| 2        | 49       | Alces alces | Älg | Elk | Mammals |
-| 2        | 50       | Canis lupus | Varg | Wolf | Mammals |
-| 2        | 51       | Gulo gulo | Järv | Wolverine | Mammals |
-| 2        | 52       | Lutra lutra | Utter | Eurasian otter | Mammals |
-| 2        | 53       | Meles meles | Grävling | European badger | Mammals |
-| 2        | 54       | Neovison vison | Mink | American mink | Mammals |
+| 1        | 18       | Polyartemia forcipata    |  |  | Crustacean |
+| 1        | 19       | Branchinecta paludosa    | Gälbladfoting |  | Crustacean |
+| 1        | 20       | Anguilla anguilla        | Ål | Eel | Fish |
+| 1        | 21       | Blicca bjoerkna          | Björkna | White bream | Fish |
+| 1        | 22       | Carassius carassius      | Ruda | Crucian carp | Fish |
+| 1        | 23       | Cottus poecilopus        | Bergsimpa | Alpine bullhead | Fish |
+| 1        | 24       | Esox lucius              | Gädda | Northern pike | Fish |
+| 1        | 25       | Gobio gobio              | Sandkrypare | Gudgeon | Fish |
+| 1        | 26       | Lampetra                 | Nejonögonfiskar | Lampreys | Fish |
+| 1        | 27       | Leuciscus aspius         | Asp | Asp | Fish |
+| 2        | 28       | Neogobius melanostomus   | Svartmunnad smörbult | Round goby | Fish |
+| 2        | 29       | Rutilus rutilus          | Mört | Common roach | Fish |
+| 2        | 30       | Salmo salar              | Lax | Salmon | Fish |
+| 2        | 31       | Salmo trutta             | Öring | Brown trout | Fish |
+| 2        | 32       | Salvelinus alpinus       | Fjällröding | Mountain char | Fish |
+| 2        | 33       | Salvelinus fontinalis    | Bäckröding | Brook trout | Fish |
+| 2        | 34       | Silurus glanis           | Mal | Wels catfish | Fish |
+| 2        | 35       | Squalus acanthias        | Pigghaj | Spiny dogfish | Fish |
+| 2        | 36       | Thymallus thymallus      | Harr | Grayling | Fish |
+| 2        | 37       | Oncorhynchus mykiss      | Regnbåge | Rainbow trout | Fish |
+| 2        | 38       | Aphanomyces astaci       | Kräftpest | Crayfish plague | Fungi |
+| 2        | 39       | Dytiscus latissimus      | Bredkantad dykare |  | Insects |
+| 2        | 40       | Leucorrhinia pectoralis  | Citronfläckad kärrtrollslända | Large white-faced darter | Insects |
+| 2        | 41       | Leucorrhinia albifrons   | Pudrad kärrtrollslända | Dark whiteface | Insects |
+| 2        | 42       | Leucorrhinia caudalis    | Bred kärrtrollslända | Lilypad whiteface | Insects |
+| 2        | 43       | Aeshna viridis           | Grön mosaikslända | Green hawker | Insects |
+| 2        | 44       | Graphoderus austriacus   |  |   | Insects |
+| 2        | 45       | Graphoderus bilineatus   | Bred paljettdykare |   | Insects |
+| 2        | 46       | Graphoderus cinereus     |  |   | Insects |
+| 2        | 47       | Graphoderus zonatus      |  |  | Insects |
+| 2        | 48       | Hirudinea                | Igel | Leech |  |
+| 2        | 49       | Alces alces              | Älg | Elk | Mammals |
+| 2        | 50       | Canis lupus              | Varg | Wolf | Mammals |
+| 2        | 51       | Gulo gulo                | Järv | Wolverine | Mammals |
+| 2        | 52       | Lutra lutra              | Utter | Eurasian otter | Mammals |
+| 2        | 53       | Meles meles              | Grävling | European badger | Mammals |
+| 2        | 54       | Neovison vison           | Mink | American mink | Mammals |
 | 2        | 55       | Nyctereutes procyonoides | Mårdhund | Common raccoon dog | Mammals |
-| 2        | 56       | Rangifer tarandis | Ren | Reindeer | Mammals |
-| 2        | 57       | Ursus arctos | Brunbjörn | Brown bear | Mammals |
-| 2        | 58       | Vulpes lagopus | Fjällräv | Arctic fox | Mammals |
-| 2        | 59       | Vulpes vulpes | Röd räv | Red fox | Mammals |
-| 2        | 60       | Dreissena bugensis | Quaggamussla | Quagga mussel | Mollusca |
-| 2        | 61       | Dreissena polymorpha | Vandrarmussla | Zebra mussel | Mollusca |
-| 2        | 62       | Ferrissia californica | Bräcklig hättesnäcka |  | Mollusca |
-| 2        | 63       | Physella heterostropha | Amerikansk blåssnäcka |  | Mollusca |
+| 2        | 56       | Rangifer tarandis        | Ren | Reindeer | Mammals |
+| 2        | 57       | Ursus arctos             | Brunbjörn | Brown bear | Mammals |
+| 2        | 58       | Vulpes lagopus           | Fjällräv | Arctic fox | Mammals |
+| 2        | 59       | Vulpes vulpes            | Röd räv | Red fox | Mammals |
+| 2        | 60       | Dreissena bugensis       | Quaggamussla | Quagga mussel | Mollusca |
+| 2        | 61       | Dreissena polymorpha     | Vandrarmussla | Zebra mussel | Mollusca |
+| 2        | 62       | Ferrissia californica    | Bräcklig hättesnäcka |  | Mollusca |
+| 2        | 63       | Physella heterostropha   | Amerikansk blåssnäcka |  | Mollusca |
 | 3        | 64       | Margaritifera margaritifera | Flodpärlmussla | Freshwater pearl mussel | Mollusca |
 | 3        | 65       | Pseudanodonta complanata | Flat dammussla | Depressed river mussel | Mollusca |
-| 3        | 66       | Rangia cuneata | Amerikansk trågmussla | Atlantic rangia | Mollusca |
-| 3        | 67       | Sinanodonta |  |  | Mollusca |
-| 3        | 68       | Unio crassus | Tjockskalig målarmussla |  Thick shelled river mussel | Mollusca |
-| 3        | 69       | Unio pictorum | Äkta målarmussla | Painter's mussel | Mollusca |
-| 3        | 70       | Unio tumidus | Spetsig målarmussla | Swollen river mussel | Mollusca |
-| 3        | 71       | Elodea canadensis | Vattenpest | Canadian waterweed | Plants |
-| 3        | 72       | Ellodea nuttallii | Smal vattenpest | Western waterweed | Plants |
+| 3        | 66       | Rangia cuneata           | Amerikansk trågmussla | Atlantic rangia | Mollusca |
+| 3        | 67       | Sinanodonta              |  |  | Mollusca |
+| 3        | 68       | Unio crassus             | Tjockskalig målarmussla |  Thick shelled river mussel | Mollusca |
+| 3        | 69       | Unio pictorum            | Äkta målarmussla | Painter's mussel | Mollusca |
+| 3        | 70       | Unio tumidus             | Spetsig målarmussla | Swollen river mussel | Mollusca |
+| 3        | 71       | Elodea canadensis        | Vattenpest | Canadian waterweed | Plants |
+| 3        | 72       | Ellodea nuttallii        | Smal vattenpest | Western waterweed | Plants |
 | 3        | 73       | Lamprothamnium papulosum | Axsträfse | Foxtail stonewort | Plants |
-| 3        | 74       | Nitella confervacea | Dvärgslinke |  | Plants |
-| 3        | 75       | Nitella gracilis | Spädslinke |  | Plants |
-| 3        | 76       | Nitella mucronata | Uddslinke | Pointed stonewort | Plants |
-| 3        | 77       | Nitella transluscens | Grovslinke |  | Plants |
-| 3        | 78       | Nitella wahlbergiana | Nordslinke |  | Plants |
-| 3        | 79       | Potamogeton friesii | Uddnate | Flat-stalked pondweed | Plants |
-| 3        | 80       | Tolypella canadensis | Fjällrufse |  | Plants |
-| 3        | 81       | Zostera noltii | Dvärgålgräs | Dwarf eelgrass | Plants |
-
+| 3        | 74       | Nitella confervacea      | Dvärgslinke |  | Plants |
+| 3        | 75       | Nitella gracilis         | Spädslinke |  | Plants |
+| 3        | 76       | Nitella mucronata        | Uddslinke | Pointed stonewort | Plants |
+| 3        | 77       | Nitella transluscens     | Grovslinke |  | Plants |
+| 3        | 78       | Nitella wahlbergiana     | Nordslinke |  | Plants |
+| 3        | 79       | Potamogeton friesii      | Uddnate | Flat-stalked pondweed | Plants |
+| 3        | 80       | Tolypella canadensis     | Fjällrufse |  | Plants |
+| 3        | 81       | Zostera noltii           | Dvärgålgräs | Dwarf eelgrass | Plants |
+| 3        | 82       | Salvelinus namaycush     | Kanadaröding | Lake trout | Fish |
+| 3        | 83       | Anas plathyrhynchus      | Gräsand | Mallard | Birds |
 
 
 ** Primers table 3 - Bear Adapter Primers
