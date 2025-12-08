@@ -715,6 +715,8 @@ on this repo and will update with this information asap.
 | illumina_ITS4                  |  22 |    666 |    Fungi        |          | - |                            |                                                                                                                  |
 | illumina_Batra_F                  |  22 |    667 |   Amphibians        |          | - |                            |                                                                                                                  |
 | illumina_Batra_R                 |  22 |    668 |    Amphibians        |          | - |                            |                                                                                                                  |
+| illumina_fwhF2           |  23 |    695 |   thai insects       |  | - | | | 
+| illumina_EPTDr2n         |  23 |    696 |   thai insects       |  | - | | | 
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
