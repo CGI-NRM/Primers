@@ -710,13 +710,36 @@ on this repo and will update with this information asap.
 | ???   |  22 |    663 |          |  | - | | | 
 | ???   |  22 |    663 |          |  | - | | | 
 | ???   |  22 |    664 |          |  | - | | | 
+|
+| illumina_ITS1F                    |  22 |    665 |   Fungi         |          | - |                                                                                                                                      
+| illumina_ITS4                     |  22 |    666 |    Fungi        |          | - |                                                                                                                                      |    
+| illumina_Batra_F                  |  22 |    667 |   Amphibians         |          | - |                                                                                                                                
+| illumina_Batra_R                  |  22 |    668 |    Amphibians        |          | - |                                                                                                                                 |
+| illumina_fwhF2           |  23 |    695 |   thai insects                      |  | - | | | 
+| illumina_EPTDr2n         |  23 |    696 |   thai insects                      |  | - | | | 
+| Mm2201_FWD               |  23 |    697 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2201_REV               |  23 |    698 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2207_FWD               |  23 |    699 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2207_REV               |  23 |    670 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2210_FWD               |  23 |    671 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2210_REV               |  23 |    672 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2236_FWD               |  23 |    673 |   Margaritifera margaritifera       |  | - | | |
+| Mm2236_REV               |  23 |    674 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2240_FWD               |  23 |    675 |   Margaritifera margaritifera       |  | - | | | 
+| Mm2240_REV               |  23 |    676 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa6271_FWD            |  23 |    677 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa6271_REV            |  23 |    678 |   Margaritifera margaritifera       |  | - | | |
+| MarMa3050_FWD            |  23 |    679 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa3050_REV            |  23 |    680 |   Margaritifera margaritifera       |  | - | | |
+| MarMa4143_FWD            |  23 |    681 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa4143_REV            |  23 |    682 |   Margaritifera margaritifera       |  | - | | |
+| MarMa4277_FWD            |  23 |    683 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa4277_REV            |  23 |    684 |   Margaritifera margaritifera       |  | - | | |
+| MarMa4322_FWD            |  24 |    685 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa4322_REV            |  24 |    686 |   Margaritifera margaritifera       |  | - | | |
+| MarMa5280_FWD            |  24 |    687 |   Margaritifera margaritifera       |  | - | | | 
+| MarMa5280_REV            |  24 |    688 |   Margaritifera margaritifera       |  | - | | |
 
-| illumina_ITS1F                  |  22 |    665 |   Fungi        |          | - |                            |                                                                                                                  |
-| illumina_ITS4                  |  22 |    666 |    Fungi        |          | - |                            |                                                                                                                  |
-| illumina_Batra_F                  |  22 |    667 |   Amphibians        |          | - |                            |                                                                                                                  |
-| illumina_Batra_R                 |  22 |    668 |    Amphibians        |          | - |                            |                                                                                                                  |
-| illumina_fwhF2           |  23 |    695 |   thai insects       |  | - | | | 
-| illumina_EPTDr2n         |  23 |    696 |   thai insects       |  | - | | | 
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
