@@ -761,7 +761,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Bufo_bufo_cyb                          | Tagman 1 | T9     | Bufo bufo                  |      | qPCR |              |           |          |
 | Cottus_gobio                           | Tagman 2 | T10    | Cottus gobio               |      | qPCR |              |           |          |
 | P_phoxinus                             | Tagman 2 | T11    | Phoxinus phoxinus          |      | qPCR |              |           |          |
-| S_salar                                | Tagman 2 | T12    | Salma salar                |      | qPCR |              |           |          |
+| S_salar                                | Tagman 2 | T12    | Salmo salar                |      | qPCR |              |           |          |
 | Salmo_trutta (Öring)                   | Tagman 2 | T13    | Salmo trutta               |      | qPCR |              |           |          |
 | Astacus_astacus_CO1                    | Tagman 2 | T14    | Astacus astacus            |      | qPCR |              |           |          |
 | Unio_crassus_M                         | Tagman 2 | T15    | Unio crassus               |      | qPCR |              |           |          |
@@ -797,7 +797,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | ITS_Tolypella_v3 (Fjällrufse) - DON'T USE. Use v4 | Tagman 6 | T50    | Tolypella canadensis       |      | qPCR |              |           |          |
 | ITS_Tolypella_v4 (Fjällrufse)          | Tagman 6 | T51    | Tolypella canadensis       |      | qPCR |              |           |          |
 | SSUDF                                  | Tagman 6 | T52    | Sarcoptes scabiei          |      | qPCR |              |           |          |
-| Salfon-A/S715 (Bäckröding)             | Tagman 7 | T53    | Salvelinus fontalis        |      | qPCR |              |           |          |
+| Salfon-A/S715 (Bäckröding)             | Tagman 7 | T53    | Salvelinus fontinalis        |      | qPCR |              |           |          |
 | SalvAlp (Fjällröding)                  | Tagman 7 | T54    | Salvelinus alpinus         |      | qPCR |              |           |          |
 | CruCarp-CyTritB                        | Tagman 7 | T56    | Carassius carassius        |      | qPCR |              |           |          |
 | Rhihar_co1_po3                         | Tagman 7 | T57    | Rhithropanopeus harrisii   |      | qPCR |              |           |          |
