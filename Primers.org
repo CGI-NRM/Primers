@@ -739,8 +739,15 @@ on this repo and will update with this information asap.
 | MarMa4322_REV            |  24 |    716 |   Margaritifera margaritifera       | SSR | - | | |
 | MarMa5280_FWD            |  24 |    717 |   Margaritifera margaritifera       | SSR | - | | | 
 | MarMa5280_REV            |  24 |    718 |   Margaritifera margaritifera       | SSR | - | | |
-| cytb-1F-Picidae          |  24 |    719 |   birds       |  | - | | | BIO has stock solutions
-| cytb-1R-Picidae          |  24 |    720 |   birds       |  | - | | | BIO has stock solutions
+| cytb-1F-Picidae          |  24 |    719 |   birds       |  | BIO has stock solutions | | | 
+| cytb-1R-Picidae          |  24 |    720 |   birds       |  | BIO has stock solutions | | | 
+| cytb-2F-Picidae          |  24 |    721 |   birds       |  | BIO has stock solutions | | | 
+| cytb-2R-Picidae          |  24 |    722 |   birds       |  | BIO has stock solutions | | | 
+| cytb-3R-Picidae          |  24 |    723 |   birds       |  | BIO has stock solutions | | |
+| cytb-3R-Picidae          |  24 |    724 |   birds       |  | BIO has stock solutions | | | 
+| cytb-4R-Picidae          |  24 |    725 |   birds       |  | BIO has stock solutions | | | 
+| cf_fr3_od_2_F            |  24 |    726 |   beaver       |  | - | | |
+| cf_fr3_od_2_R            |  24 |    727 |   beaver       |  | - | | |
 
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
