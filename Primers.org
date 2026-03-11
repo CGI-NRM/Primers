@@ -911,6 +911,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 3        | 87       | Lanius collurio          | Törnskata | Red-backed shrike | Birds |
 | 3        | 88       | Lepidurus apus           | Spetssköldbladfoting | Tadpole shrimp | Crustacean |
 | 3        | 89       | Castor fiber             | Europeisk bäver | Eurasian beaver | Birds |
+| 3        | 90       | Lepidurus apus           | Spetssköldbladfoting | Tadpole shrimp | Arthropoda |
 
 
 ** Primers table 3 - Bear Adapter Primers
