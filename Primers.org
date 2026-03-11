@@ -905,6 +905,12 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 3        | 81       | Zostera noltii           | Dvärgålgräs | Dwarf eelgrass | Plants |
 | 3        | 82       | Salvelinus namaycush     | Kanadaröding | Lake trout | Fish |
 | 3        | 83       | Anas plathyrhynchus      | Gräsand | Mallard | Birds |
+| 3        | 84       | Cottus gobio             | Stensimpa | European bullhead | Fish |
+| 3        | 85       | Potamogeton compressus   | Bandnate | Grass-wrack pondweed | Plants |
+| 3        | 86       | Potamogeton obtusifolius | Trubbnate | Blunt-leaved pondweed | Plants |
+| 3        | 87       | Lanius collurio          | Törnskata | Red-backed shrike | Birds |
+| 3        | 88       | Lepidurus apus           | Spetssköldbladfoting | Tadpole shrimp | Crustacean |
+| 3        | 89       | Castor fiber             | Europeisk bäver | Eurasian beaver | Birds |
 
 
 ** Primers table 3 - Bear Adapter Primers
