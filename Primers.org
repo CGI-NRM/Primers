@@ -806,6 +806,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | SSUDF                                  | Tagman 6 | T52    | Sarcoptes scabiei          |      | qPCR |              |           |          |
 | Salfon-A/S715 (Bäckröding)             | Tagman 7 | T53    | Salvelinus fontinalis        |      | qPCR |              |           |          |
 | SalvAlp (Fjällröding)                  | Tagman 7 | T54    | Salvelinus alpinus         |      | qPCR |              |           |          |
+| Aphanomyces astaci (kräftpest)         | Tagman 7 | T55    | Aphanomyces astaci         |      | qPCR |              |           |          |
 | CruCarp-CyTritB                        | Tagman 7 | T56    | Carassius carassius        |      | qPCR |              |           |          |
 | Rhihar_co1_po3                         | Tagman 7 | T57    | Rhithropanopeus harrisii   |      | qPCR |              |           |          |
 | Limnadia_lenticularis                  | Tagman 7 | T58    | Limnadia lenticularis      |      | qPCR |              |           |          |
