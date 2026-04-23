@@ -749,6 +749,8 @@ on this repo and will update with this information asap.
 | cf_fr3_od_2_F            |  24 |    726 |   beaver       |  | - | | |
 | cf_fr3_od_2_R            |  24 |    727 |   beaver       |  | - | | |
 | shark150R                |  24 |    728 |   shark        |  | - | | |
+| L14990                   |  24 |    729 |   cytb (birds)        |  | - | | |
+| H15915                   |  24 |    730 |   cytb (birds)      |  | - | | |
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
@@ -911,7 +913,8 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | 3        | 86       | Potamogeton obtusifolius | Trubbnate | Blunt-leaved pondweed | Plants |
 | 3        | 87       | Lanius collurio          | Törnskata | Red-backed shrike | Birds |
 | 3        | 88       | Lepidurus apus           | Spetssköldbladfoting | Tadpole shrimp | Crustacean |
-| 3        | 89       | Castor fiber             | Europeisk bäver | Eurasian beaver | Birds |
+| 3        | 89       | Castor fiber             | Europeisk bäver | Eurasian beaver | Mammals |
+| 3        | 90       | Phylloscopus collybita   | Gransångare| Common chiffchaff | Birds |
 
 ** Primers table 3 - Bear Adapter Primers
 
