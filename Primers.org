@@ -816,6 +816,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | SANA_CO1                               | Tagman 7 | T60    | Salvelinus namaycush       |      | qPCR |              |           |          |
 | Gräsand                                | Tagman 7 | T61    | Anas plathyrhynchus        |      | qPCR |              |           |          |
 
+
 ** Primers table 2 - qPCR
 
 | Name                                   | Box      | Number | Species                  | Type | Loci | Modification | Reference | Sequence |
