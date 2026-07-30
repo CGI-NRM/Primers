@@ -818,7 +818,7 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Kräftpesten                            | Tagman 7 | T62    | Aphanomyces astaci         |      | qPCR |              |           |          |
 | Klockgrodan                            | Tagman 7 | T63    | Bombina bombina            |      | qPCR |              |           |          |
 | Klockgrodan                            | Tagman 7 | T64    | Bombina bombina            |      | qPCR |              |           |          |
-| ???                                    | Tagman 7 | T65    | Pel_rid_cyt_b_po1          |      | qPCR |              |           |          |
+| Sjögroda                               | Tagman 7 | T65    | Pelophylax ridibundus      |      | qPCR |              |           |          |
 
 ** Primers table 2 - qPCR
 
