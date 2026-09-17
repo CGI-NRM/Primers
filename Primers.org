@@ -750,6 +750,13 @@ on this repo and will update with this information asap.
 | shark150R                |  24 |    728 |   shark        |  | - | | |
 | L14990                   |  24 |    729 |   cytb (birds)        |  | - | | |
 | H15915                   |  24 |    730 |   cytb (birds)      |  | - | | |
+| L14841                   |  24 |    731 |                     |  | - | | |
+| Res16_FWD                |  24 |    732 |                     |  | - | | |
+| Res16_REV                |  24 |    733 |                     |  | - | | |
+| RICA1b5_FWD              |  24 |    734 |                     |  | - | | |
+| RICA1b5_REV              |  24 |    735 |                     |  | - | | |
+| MtInsects_illumina-16S_F |  24 |    736 |                     |  | - | | |
+| MtInsects_illumina-16S_R |  24 |    737 |                     |  | - | | |
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
