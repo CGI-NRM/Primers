@@ -730,8 +730,8 @@ on this repo and will update with this information asap.
 | MarMa2671_REV            |  23 |    708 |   Margaritifera margaritifera       | SSR | - | | |
 | MarMa3050_FWD            |  23 |    709 |   Margaritifera margaritifera       | SSR | - | | | 
 | MarMa3050_REV            |  23 |    710 |   Margaritifera margaritifera       | SSR | - | | |
-| MarMa4143_FWD            |  23 |    711 |   Margaritifera margaritifera       | SSR | - | | | 
-| MarMa4143_REV            |  23 |    712 |   Margaritifera margaritifera       | SSR | - | | |
+| MarMa4143_FWD            |  23 |    711 |   Margaritifera margaritifera       | SSR | - | |[FAM]-TCAAAACCACTTGTTGTATGGT| 
+| MarMa4143_REV            |  23 |    712 |   Margaritifera margaritifera       | SSR | - | |TGGAGCTTGTAAATAAATCCTGT|
 | MarMa4277_FWD            |  23 |    713 |   Margaritifera margaritifera       | SSR | - | | | 
 | MarMa4277_REV            |  23 |    714 |   Margaritifera margaritifera       | SSR | - | | |
 | MarMa4322_FWD            |  24 |    715 |   Margaritifera margaritifera       | SSR | - | | | 
@@ -745,12 +745,12 @@ on this repo and will update with this information asap.
 | cytb-3R-Picidae          |  24 |    723 |   birds       |  | BIO has stock solutions | | |
 | cytb-3R-Picidae          |  24 |    724 |   birds       |  | BIO has stock solutions | | | 
 | cytb-4R-Picidae          |  24 |    725 |   birds       |  | BIO has stock solutions | | | 
-| cf_fr3_od_2_F            |  24 |    726 |   beaver       |  | - | | |
-| cf_fr3_od_2_R            |  24 |    727 |   beaver       |  | - | | |
+| cf_fr3_od_2_F            |  24 |    726 |   beaver       |  | - | |CAGTCTATGTATATCGTGCAT|
+| cf_fr3_od_2_R            |  24 |    727 |   beaver       |  | - | |GAACTTAATATGTACGATTATAC|
 | shark150R                |  24 |    728 |   shark        |  | - | | |
 | L14990                   |  24 |    729 |   cytb (birds)        |  | - | | |
-| H15915                   |  24 |    730 |   cytb (birds)      |  | - | | |
-| L14841                   |  24 |    731 |                     |  | - | | |
+| H15915                   |  24 |    730 |   cytb (birds)      |  | - | |5′-AACTGCAGTCATCTCCGGTTTACAAGAC-3′|
+| L14841                   |  24 |    731 |   cytb              |  | - | |5′-CCATCCAACATCTCAGCATGATGAAA-3′|
 | Res16_FWD                |  24 |    732 |                     |  | - | | |
 | Res16_REV                |  24 |    733 |                     |  | - | | |
 | RICA1b5_FWD              |  24 |    734 |                     |  | - | | |
