@@ -755,8 +755,10 @@ on this repo and will update with this information asap.
 | Res16_REV                |  24 |    733 |                     |  | - | | |
 | RICA1b5_FWD              |  24 |    734 |                     |  | - | | |
 | RICA1b5_REV              |  24 |    735 |                     |  | - | | |
-| MtInsects_illumina-16S_F |  24 |    736 | Insects             |  | - | | |
-| MtInsects_illumina-16S_R |  24 |    737 | Insects             |  | - | | |
+| MtInsects_illumina-16S_F |  24 |    736 | Insects             |  | - | |ACACTCTTTCCCTACACGACGCTCTTCCGATCTGGACGAGAAGACCCTWTAGA |
+| MtInsects_illumina-16S_R |  24 |    737 | Insects             |  | - | |GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTATCCAACATCGAGGTCGCAA |
+| Illumina-Uni18sF         |  24 |    738 | Plankton            |  | - | | ACACTCTTTCCCTACACGACGCTCTTCCGATCTAGGGCAAKYCTGGTGCCAGC|
+| Illumina-Uni18sR         |  24 |    739 | Plankton            |  | - | | GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGRCGGTATCTRATCGYCTT |
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
