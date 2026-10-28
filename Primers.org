@@ -759,6 +759,7 @@ on this repo and will update with this information asap.
 | MtInsects_illumina-16S_R |  24 |    737 | Insects             |  | - | |GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTATCCAACATCGAGGTCGCAA |
 | Illumina-Uni18sF         |  24 |    738 | Plankton            |  | - | | ACACTCTTTCCCTACACGACGCTCTTCCGATCTAGGGCAAKYCTGGTGCCAGC|
 | Illumina-Uni18sR         |  24 |    739 | Plankton            |  | - | | GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGRCGGTATCTRATCGYCTT |
+| Illumina-jgHCO2198       |  24 |    740 | CO1, marine invertebrates|  | - | | GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTAIACYTCIGGRTGICCRAARAAYCA |
 
 LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
